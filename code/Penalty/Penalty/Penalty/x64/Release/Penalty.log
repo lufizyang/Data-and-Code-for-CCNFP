@@ -1,0 +1,24 @@
+﻿  main.cc
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\main.cc(204,29): warning C4244: “=”: 从“SIZE_T”转换到“double”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\main.cc(221,29): warning C4244: “=”: 从“SIZE_T”转换到“double”，可能丢失数据
+  penalty.cc
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\penalty.cc(20,22): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\penalty.cc(21,22): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\penalty.cc(24,66): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\penalty.cc(34,8): warning C4267: “参数”: 从“size_t”转换到“long”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\penalty.cc(35,8): warning C4267: “参数”: 从“size_t”转换到“long”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\penalty.cc(62,22): warning C4267: “参数”: 从“size_t”转换到“long”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\penalty.cc(66,22): warning C4267: “参数”: 从“size_t”转换到“long”，可能丢失数据
+  utils.cc
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\utils.cc(55,3): warning C4551: 缺少参数列表的函数调用
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\utils.cc(87,3): warning C4551: 缺少参数列表的函数调用
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\utils.cc(110,3): warning C4551: 缺少参数列表的函数调用
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\utils.cc(124,3): warning C4551: 缺少参数列表的函数调用
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\utils.cc(145,3): warning C4551: 缺少参数列表的函数调用
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\utils.cc(166,3): warning C4551: 缺少参数列表的函数调用
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\Penalty\utils.cc(180,3): warning C4551: 缺少参数列表的函数调用
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1308 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Penalty.vcxproj -> E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\Penalty\Penalty\x64\Release\Penalty.exe

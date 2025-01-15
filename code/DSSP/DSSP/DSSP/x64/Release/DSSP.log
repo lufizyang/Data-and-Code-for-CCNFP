@@ -1,0 +1,44 @@
+﻿  dssp.cc
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\dssp.cc(20,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\dssp.cc(21,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  main.cc
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\main.cc(32,19): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\main.cc(33,17): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\main.cc(225,29): warning C4244: “=”: 从“SIZE_T”转换到“double”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\algorithm(675,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cc”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\algorithm(675,19):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\main.cc(32,26):
+          查看对正在编译的函数 模板 实例化“__int64 std::count_if<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,main::<lambda_1>>(_InIt,_InIt,_Pr)”的引用
+          with
+          [
+              _Ty=double,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Pr=main::<lambda_1>
+          ]
+  
+  sdsp.cc
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(48,21): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(49,21): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(55,17): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(55,17): warning C4267:         with
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(55,17): warning C4267:         [
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(55,17): warning C4267:             _Ty=long
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(55,17): warning C4267:         ]
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(60,17): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(60,17): warning C4267:         with
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(60,17): warning C4267:         [
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(60,17): warning C4267:             _Ty=long
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(60,17): warning C4267:         ]
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(99,71): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(99,71): warning C4267:         with
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(99,71): warning C4267:         [
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(99,71): warning C4267:             _Ty=long
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\DSSP\sdsp.cc(99,71): warning C4267:         ]
+  正在生成代码
+  18 of 1211 functions ( 1.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    163 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  DSSP.vcxproj -> E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\DSSP\DSSP\x64\Release\DSSP.exe

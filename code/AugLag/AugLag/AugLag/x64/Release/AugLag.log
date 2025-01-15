@@ -1,0 +1,7 @@
+﻿  main.cc
+E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\AugLag\AugLag\AugLag\main.cc(202,29): warning C4244: “=”: 从“SIZE_T”转换到“double”，可能丢失数据
+  正在生成代码
+  Previous IOBJ not found, fall back to full compilation.
+  All 1308 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  AugLag.vcxproj -> E:\Non-linear Cost Network Flow\Github_push\Data-and-Code-for-CCNFP\code\AugLag\AugLag\x64\Release\AugLag.exe
